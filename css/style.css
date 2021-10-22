@@ -1,0 +1,12 @@
+.box {
+    min-height: 110px;
+    background-color: pink;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.box-nested {
+    min-height: 110px;
+    background-color: tomato;
+    border: 1px solid white;
+}
